@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
 | [0486-predict-the-winner](https://github.com/DeepaliSingh10/leetcode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/DeepaliSingh10/leetcode/tree/master/3731-find-missing-elements) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DeepaliSingh10/leetcode/tree/master/1406-stone-game-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
