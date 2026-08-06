@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/DeepaliSingh10/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/DeepaliSingh10/leetcode/tree/master/3310-remove-methods-from-project) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
