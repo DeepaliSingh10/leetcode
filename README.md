@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
+| [0283-move-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/DeepaliSingh10/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepaliSingh10/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeepaliSingh10/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
