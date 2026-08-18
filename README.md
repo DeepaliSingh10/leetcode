@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeepaliSingh10/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeepaliSingh10/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
