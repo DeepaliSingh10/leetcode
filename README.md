@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/DeepaliSingh10/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DeepaliSingh10/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
