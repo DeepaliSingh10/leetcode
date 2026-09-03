@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/DeepaliSingh10/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/DeepaliSingh10/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DeepaliSingh10/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeepaliSingh10/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeepaliSingh10/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
