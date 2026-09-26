@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepaliSingh10/leetcode/tree/master/0018-4sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeepaliSingh10/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/DeepaliSingh10/leetcode/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/DeepaliSingh10/leetcode/tree/master/1927-sum-game) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeepaliSingh10/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/DeepaliSingh10/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeepaliSingh10/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepaliSingh10/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/DeepaliSingh10/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/DeepaliSingh10/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DeepaliSingh10/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
