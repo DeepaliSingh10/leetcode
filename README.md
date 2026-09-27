@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/DeepaliSingh10/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/DeepaliSingh10/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/DeepaliSingh10/leetcode/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/DeepaliSingh10/leetcode/tree/master/1872-stone-game-viii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeepaliSingh10/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DeepaliSingh10/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/DeepaliSingh10/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeepaliSingh10/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepaliSingh10/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/DeepaliSingh10/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeepaliSingh10/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeepaliSingh10/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeepaliSingh10/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
