@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepaliSingh10/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/DeepaliSingh10/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeepaliSingh10/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepaliSingh10/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/DeepaliSingh10/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepaliSingh10/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
