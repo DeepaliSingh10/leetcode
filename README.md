@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DeepaliSingh10/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepaliSingh10/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/DeepaliSingh10/leetcode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DeepaliSingh10/leetcode/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/DeepaliSingh10/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeepaliSingh10/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DeepaliSingh10/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/DeepaliSingh10/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeepaliSingh10/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeepaliSingh10/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
