@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepaliSingh10/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepaliSingh10/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/DeepaliSingh10/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/DeepaliSingh10/leetcode/tree/master/0912-sort-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepaliSingh10/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepaliSingh10/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepaliSingh10/leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/DeepaliSingh10/leetcode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeepaliSingh10/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepaliSingh10/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
